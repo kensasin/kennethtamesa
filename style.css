@@ -9,4 +9,28 @@ body {
   h1{
     text-transform: uppercase;
   }
- 
+ .card{
+    width: 80%;
+    width: 60vh;
+    padding: 30px;
+ }
+ .container-contact{
+    display: flex;
+    justify-content: center;
+ }
+.kenneth {
+  box-shadow: 82px -6px 62px -6px rgba(0,0,0,0.61);
+  -webkit-box-shadow: 82px -6px 62px -6px rgba(0,0,0,0.61);
+  -moz-box-shadow: 82px -6px 62px -6px rgba(0,0,0,0.61);
+}
+.resume h1{
+  font-weight: 900;
+  color: rgb(0, 0, 0);
+  text-shadow: 6px 6px 12px rgba(0, 0, 0, 0.475);
+  font-size: 4rem;
+}
+.resume button{ 
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.557);
+  border: 3px solid #000000;
+  border-radius: 18% 82% 17% 83% / 100% 0% 100% 0% ;
+}
